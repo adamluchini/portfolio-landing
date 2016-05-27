@@ -1,23 +1,15 @@
 .border-day-one{
-border:solid 2px black;
-background-color:#FAFF81;
+background-color:#549F93;
 }
 
 .border-day-two{
-border:solid 2px black;
-background-color:#EFF1C5;
+background-color:#9FAF90;
 }
 
 .border-day-three{
-border:solid 2px black;
-background-color:#035E7B;
+background-color:#E2B1B1;
 }
 
 .border-day-four{
-border:solid 2px black;
-background-color:#002E2C;
-}
-
-.margin-box {
-  margin-left: 500px;
+background-color:#E2C2FF;
 }
