@@ -13,8 +13,27 @@ background-color:#E2B1B1;
 .border-day-four{
 background-color:#E2C2FF;
 }
+/* About Me Style Sheet
+*/
+.banner {
+  background:#258EA6;
+  padding-bottom: 5px;
+}
 
-.dt-list-text{
-  font-size: 18px;
-  text-align: left;
+.header {
+  text-align: center;
+  font: arial;
+  font-size: 60px;
+}
+
+.img-top {
+  width:150px;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sub-header {
+  font-size: 30px;
+  text-align: center;
 }
