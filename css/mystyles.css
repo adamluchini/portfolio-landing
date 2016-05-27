@@ -35,6 +35,24 @@ background-color:#E2C2FF;
   border-radius: 50%;
 }
 
+.img-mae {
+  width:150px;
+  float:left;
+  padding: 10px;
+}
+
+.img-standup{
+  width:700px;
+  float:bottom;
+  padding:10px;
+}
+
+.img-hop-men {
+  width: 250px;
+  float:right;
+  padding: 10px;
+}
+
 .sub-header {
   font-size: 30px;
   text-align: center;
@@ -61,7 +79,8 @@ background-color:#E2C2FF;
 }
 
 .body-text {
-  font-size: 16px;
+  font-size: 20px;
+  padding: 10px;
 }
 
 .about-background {
