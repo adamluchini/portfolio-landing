@@ -1,3 +1,9 @@
+/* Index Page*/
+.border-all{
+  border:5px solid black;
+  padding: 15px;
+}
+
 .border-day-one{
 background-color:#549F93;
 }
@@ -13,15 +19,43 @@ background-color:#E2B1B1;
 .border-day-four{
 background-color:#E2C2FF;
 }
-/* About Me Style Sheet
-*/
+/* About Me*/
+.about-background {
+  background-color: #549F93;
+  border: 2px solid black;
+}
+
+.align {
+  text-align: center;
+}
+
 .banner {
   background:#258EA6;
   padding-bottom: 5px;
 }
 
-.index-padding {
-  padding: 80px;
+.body-text {
+  font-size: 20px;
+  padding: 10px;
+}
+
+.column1{
+  background-color:#549F93;
+  width: 960px;
+  float:left;
+  padding: 5px;
+  margin-left:10px;
+}
+.column2{
+  background-color:#549F93;
+  width: 960px;
+  float:right;
+  padding: 5px;
+  margin-right:10px;
+}
+
+.footer-background{
+  background-color:#E2B1B1
 }
 
 .header {
@@ -62,44 +96,12 @@ background-color:#E2C2FF;
   padding: 10px;
 }
 
-.sub-header {
-  font-size: 30px;
-  text-align: center;
-  color:white;
-  padding: 15px;
+.index-padding {
+  padding: 80px;
 }
 
-.column1{
-  background-color:#549F93;
-  width: 960px;
-  float:left;
-  padding: 5px;
-  margin-left:10px;
-}
-.column2{
-  background-color:#549F93;
-  width: 960px;
-  float:right;
-  padding: 5px;
-  margin-right:10px;
-}
-
-.footer-background{
-  background-color:#E2B1B1
-}
-
-.align {
-  text-align: center;
-}
-
-.body-text {
-  font-size: 20px;
-  padding: 10px;
-}
-
-.about-background {
-  background-color: #549F93;
-  border: 2px solid black;
+.italic {
+  font-style: oblique;
 }
 
 .ol-list {
@@ -107,6 +109,9 @@ background-color:#E2C2FF;
   border-left: 10px;
 }
 
-.italic {
-  font-style: oblique;
+.sub-header {
+  font-size: 30px;
+  text-align: center;
+  color:white;
+  padding: 15px;
 }
