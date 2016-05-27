@@ -25,18 +25,20 @@ background-color:#E2C2FF;
   font: arial;
   font-size: 60px;
   color:white;
+  padding: 40px;
 }
 
 .img-top {
-  width:150px;
+  width:250px;
   display:block;
   margin-left: auto;
   margin-right: auto;
-  border-radius: 50%;
+  border: solid 2px black;
+  transform: rotate(90deg);
 }
 
 .img-mae {
-  width:150px;
+  width:250px;
   float:left;
   padding: 10px;
 }
@@ -45,10 +47,13 @@ background-color:#E2C2FF;
   width:700px;
   float:bottom;
   padding:10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .img-hop-men {
-  width: 250px;
+  width: 350px;
   float:right;
   padding: 10px;
 }
@@ -57,6 +62,7 @@ background-color:#E2C2FF;
   font-size: 30px;
   text-align: center;
   color:white;
+  padding: 15px;
 }
 
 .column1{
@@ -72,6 +78,10 @@ background-color:#E2C2FF;
   float:right;
   padding: 5px;
   margin-right:10px;
+}
+
+.footer-background{
+  background-color:#E2B1B1
 }
 
 .align {
