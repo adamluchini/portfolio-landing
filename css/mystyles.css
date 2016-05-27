@@ -24,6 +24,7 @@ background-color:#E2C2FF;
   text-align: center;
   font: arial;
   font-size: 60px;
+  color:white;
 }
 
 .img-top {
@@ -31,9 +32,34 @@ background-color:#E2C2FF;
   display:block;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 50%;
 }
 
 .sub-header {
   font-size: 30px;
   text-align: center;
+  color:white;
+}
+
+.column1{
+  background-color:#549F93;
+  width: 960px;
+  float:left;
+  padding: 5px;
+  margin-left:10px;
+}
+.column2{
+  background-color:#549F93;
+  width: 960px;
+  float:right;
+  padding: 5px;
+  margin-right:10px;
+}
+
+.align {
+  text-align: center;
+}
+
+.body-text {
+  font-size: 16px;
 }
