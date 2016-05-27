@@ -63,3 +63,8 @@ background-color:#E2C2FF;
 .body-text {
   font-size: 16px;
 }
+
+.about-background {
+  background-color: #549F93;
+  border: 2px solid black;
+}
