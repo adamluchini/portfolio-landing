@@ -20,6 +20,10 @@ background-color:#E2C2FF;
   padding-bottom: 5px;
 }
 
+.index-padding {
+  padding: 80px;
+}
+
 .header {
   text-align: center;
   font: arial;
