@@ -45,7 +45,7 @@ background-color:#E2C2FF;
 
 .img-standup{
   width:700px;
-  float:bottom;
+  float:top;
   padding:10px;
   display: block;
   margin-left: auto;
@@ -100,6 +100,7 @@ background-color:#E2C2FF;
 
 .ol-list {
   list-style-type: upper-alpha;
+  border-left: 10px;
 }
 
 .italic {
