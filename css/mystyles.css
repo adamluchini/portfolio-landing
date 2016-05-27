@@ -97,3 +97,11 @@ background-color:#E2C2FF;
   background-color: #549F93;
   border: 2px solid black;
 }
+
+.ol-list {
+  list-style-type: upper-alpha;
+}
+
+.italic {
+  font-style: oblique;
+}
